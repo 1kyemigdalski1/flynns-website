@@ -26,3 +26,9 @@ font-weight:600;
 #lowerfooter{font-size:60px;margin:16px 12px 8px 3px}
 
 #footer3{background-color:#346275;color:#fff}
+
+
+.pbox img {z-index:-1;border-radius:8px}
+.pbox button {z-index:2;position:absolute;right:25%;padding:8px;margin-top:-48px;border-radius:8px;background-color:white;border;2px black solid;color:black}
+.pbox button:hover {background-color:black;border;2px white solid;color:white}
+
